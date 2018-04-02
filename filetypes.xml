@@ -10,7 +10,6 @@
       <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
