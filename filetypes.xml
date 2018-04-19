@@ -11,6 +11,7 @@
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="yang" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
