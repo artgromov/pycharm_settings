@@ -1,0 +1,5 @@
+<application>
+  <component name="YaTool.Application.Settings">
+    <option name="yaToolPath" value="$USER_HOME$/arcadia/ya" />
+  </component>
+</application>
