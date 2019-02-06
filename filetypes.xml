@@ -7,14 +7,15 @@
       <mapping pattern=".activate" type="PLAIN_TEXT" />
       <mapping pattern="stdout" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".placeholder" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="fast_failover_demo_with_group_hierarchy" type="PLAIN_TEXT" />
-      <mapping pattern="patch_venv" type="PLAIN_TEXT" />
-      <mapping pattern="push-client" type="PLAIN_TEXT" />
       <mapping pattern="blob_00000" type="PLAIN_TEXT" />
+      <mapping pattern="push-client" type="PLAIN_TEXT" />
+      <mapping pattern=".placeholder" type="PLAIN_TEXT" />
+      <mapping pattern="patch_venv" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="exports" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
