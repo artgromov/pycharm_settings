@@ -12,6 +12,7 @@
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="nginx_mon_status" type="PLAIN_TEXT" />
       <mapping pattern="fast_failover_demo_with_group_hierarchy" type="PLAIN_TEXT" />
+      <mapping pattern="cron-liveness" type="PLAIN_TEXT" />
       <mapping pattern="postinst" type="PLAIN_TEXT" />
       <mapping pattern="blob_00000" type="PLAIN_TEXT" />
       <mapping pattern="push-client" type="PLAIN_TEXT" />
