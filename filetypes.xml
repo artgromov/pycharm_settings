@@ -29,6 +29,7 @@
       <mapping ext="started" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="initstarted" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="yang" type="PLAIN_TEXT" />
       <mapping pattern="sqs" type="Python" />
