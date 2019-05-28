@@ -5,23 +5,24 @@
       <mapping ext="j2" type="Jinja2" />
       <mapping pattern="status" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="stderr" type="PLAIN_TEXT" />
       <mapping pattern=".activate" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="stdout" type="PLAIN_TEXT" />
       <mapping pattern="common" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="stderr" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
-      <mapping pattern="patch_venv" type="PLAIN_TEXT" />
       <mapping pattern="nginx_mon_status" type="PLAIN_TEXT" />
       <mapping pattern="fast_failover_demo_with_group_hierarchy" type="PLAIN_TEXT" />
       <mapping pattern="environment" type="PLAIN_TEXT" />
       <mapping pattern="cron-liveness" type="PLAIN_TEXT" />
+      <mapping pattern="postrm" type="PLAIN_TEXT" />
       <mapping pattern="postinst" type="PLAIN_TEXT" />
-      <mapping pattern="push-client" type="PLAIN_TEXT" />
-      <mapping pattern="nginx_mon" type="PLAIN_TEXT" />
-      <mapping pattern=".placeholder" type="PLAIN_TEXT" />
       <mapping pattern="blob_00000" type="PLAIN_TEXT" />
       <mapping pattern="logrotate-loop-start" type="PLAIN_TEXT" />
+      <mapping pattern="push-client" type="PLAIN_TEXT" />
+      <mapping pattern=".placeholder" type="PLAIN_TEXT" />
+      <mapping pattern="patch_venv" type="PLAIN_TEXT" />
+      <mapping pattern="nginx_mon" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
