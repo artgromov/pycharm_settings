@@ -12,7 +12,6 @@
       <mapping pattern="environment" type="PLAIN_TEXT" />
       <mapping pattern="push-client-readyness" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="status" type="PLAIN_TEXT" />
       <mapping pattern="push-agent-proxy-start" type="PLAIN_TEXT" />
       <mapping pattern="push-client" type="PLAIN_TEXT" />
       <mapping pattern="common" type="PLAIN_TEXT" />
@@ -22,6 +21,7 @@
       <mapping pattern="push-client-destroy" type="PLAIN_TEXT" />
       <mapping pattern="logrotate-loop-readyness" type="PLAIN_TEXT" />
       <mapping pattern=".activate" type="PLAIN_TEXT" />
+      <mapping pattern="simple" type="PLAIN_TEXT" />
       <mapping pattern=".placeholder" type="PLAIN_TEXT" />
       <mapping pattern="nginx_mon" type="PLAIN_TEXT" />
       <mapping pattern="logrotate-loop-start" type="PLAIN_TEXT" />
@@ -29,6 +29,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="push-client-stop" type="PLAIN_TEXT" />
       <mapping pattern="nginx_mon_status" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="push-client-start" type="PLAIN_TEXT" />
       <mapping pattern="logrotate-loop-stop" type="PLAIN_TEXT" />
       <mapping pattern="push-agent-proxy-destroy" type="PLAIN_TEXT" />
@@ -37,7 +38,7 @@
       <mapping pattern="monitor-stop" type="PLAIN_TEXT" />
       <mapping pattern="stderr" type="PLAIN_TEXT" />
       <mapping pattern="fast_failover_demo_with_group_hierarchy" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="status" type="PLAIN_TEXT" />
       <mapping pattern="postrm" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
