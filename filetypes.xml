@@ -35,6 +35,7 @@
       <mapping pattern="postinst" type="PLAIN_TEXT" />
       <mapping pattern="blob_00000" type="PLAIN_TEXT" />
       <mapping pattern="push-client-start" type="PLAIN_TEXT" />
+      <mapping pattern="__init__" type="PLAIN_TEXT" />
       <mapping pattern="push-client" type="PLAIN_TEXT" />
       <mapping pattern="nginx_mon" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
