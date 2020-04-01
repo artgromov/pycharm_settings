@@ -9,6 +9,7 @@
       <mapping pattern="push-client-stop" type="PLAIN_TEXT" />
       <mapping pattern="monitor-start" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="ytsender-ng-master" type="PLAIN_TEXT" />
       <mapping pattern=".activate" type="PLAIN_TEXT" />
       <mapping pattern="yandex-agent-logbroker" type="PLAIN_TEXT" />
       <mapping pattern="stdout" type="PLAIN_TEXT" />
