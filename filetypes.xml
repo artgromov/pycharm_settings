@@ -3,6 +3,7 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.ipynb_checkpoints;.pytest_cache;.svn;.vagrant;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="j2" type="Jinja2" />
+      <mapping pattern="Pipfile" type="PLAIN_TEXT" />
       <mapping pattern="status" type="PLAIN_TEXT" />
       <mapping pattern="push-agent-proxy-destroy" type="PLAIN_TEXT" />
       <mapping pattern="push-client-liveness" type="PLAIN_TEXT" />
