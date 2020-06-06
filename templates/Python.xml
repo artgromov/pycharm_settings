@@ -1,5 +1,5 @@
 <templateSet group="Python">
-  <template name="logging" value="log_formatter = logging.Formatter('%(asctime)s %(levelname)-8s %(processName)-25s %(name)s %(message)s')&#10;log_stream_handler = logging.StreamHandler()&#10;log_stream_handler.setFormatter(log_formatter)&#10;logger.addHandler(log_stream_handler)&#10;logger.setLevel(logging.DEBUG)&#10;" description="generate logging init code" toReformat="false" toShortenFQNames="true">
+  <template name="logging" value="log_formatter = logging.Formatter('%(asctime)s %(levelname)-8s %(processName)-25s %(name)s %(message)s')&#10;log_stream_handler = logging.StreamHandler()&#10;log_stream_handler.setFormatter(log_formatter)&#10;logging.getLogger().addHandler(log_stream_handler)&#10;logger.setLevel(logging.DEBUG)&#10;" description="generate logging init code" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
       <option name="Python_Class" value="false" />
