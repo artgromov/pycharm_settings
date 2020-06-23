@@ -54,6 +54,7 @@
       <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="yang" type="PLAIN_TEXT" />
       <mapping ext="ods" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="started" type="PLAIN_TEXT" />
       <mapping ext="init" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
