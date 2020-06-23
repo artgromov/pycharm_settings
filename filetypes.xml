@@ -42,6 +42,7 @@
       <mapping pattern="prerm" type="PLAIN_TEXT" />
       <mapping pattern="push-agent-proxy-destroy" type="PLAIN_TEXT" />
       <mapping pattern="logrotate-loop-liveness" type="PLAIN_TEXT" />
+      <mapping pattern="lb_topic" type="PLAIN_TEXT" />
       <mapping pattern="postinst" type="PLAIN_TEXT" />
       <mapping pattern="stderr" type="PLAIN_TEXT" />
       <mapping pattern="fast_failover_demo_with_group_hierarchy" type="PLAIN_TEXT" />
