@@ -23,6 +23,7 @@
       <mapping pattern="yandex-agent-logbroker" type="PLAIN_TEXT" />
       <mapping pattern="push-client-destroy" type="PLAIN_TEXT" />
       <mapping pattern="__init__" type="PLAIN_TEXT" />
+      <mapping pattern="placeholder" type="PLAIN_TEXT" />
       <mapping pattern="logrotate-loop-readyness" type="PLAIN_TEXT" />
       <mapping pattern=".activate" type="PLAIN_TEXT" />
       <mapping pattern="simple" type="PLAIN_TEXT" />
