@@ -51,6 +51,7 @@
       <mapping pattern="postrm" type="PLAIN_TEXT" />
       <mapping ext="yql" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
+      <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="exports" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
@@ -61,6 +62,7 @@
       <mapping ext="init" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
+      <mapping ext="token" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="override" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
