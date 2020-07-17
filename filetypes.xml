@@ -5,6 +5,7 @@
       <mapping ext="j2" type="Jinja2" />
       <mapping pattern="ytsender-ng-master" type="PLAIN_TEXT" />
       <mapping pattern="push-client-liveness" type="PLAIN_TEXT" />
+      <mapping pattern="push-client-test" type="PLAIN_TEXT" />
       <mapping pattern="blob_00000" type="PLAIN_TEXT" />
       <mapping pattern="patch_venv" type="PLAIN_TEXT" />
       <mapping pattern="logrotate-loop-destroy" type="PLAIN_TEXT" />
