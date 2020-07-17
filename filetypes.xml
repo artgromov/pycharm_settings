@@ -54,6 +54,7 @@
       <mapping ext="pickle" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="exports" type="PLAIN_TEXT" />
+      <mapping ext="rsyslog" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="spec" type="PLAIN_TEXT" />
       <mapping ext="started" type="PLAIN_TEXT" />
@@ -68,6 +69,7 @@
       <mapping ext="override" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="initstarted" type="PLAIN_TEXT" />
+      <mapping ext="logrotate2" type="PLAIN_TEXT" />
       <mapping ext="norestart" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="timestamp" type="PLAIN_TEXT" />
