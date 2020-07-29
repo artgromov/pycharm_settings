@@ -34,6 +34,7 @@
       <mapping pattern="localhost" type="PLAIN_TEXT" />
       <mapping pattern="monitor-stop" type="PLAIN_TEXT" />
       <mapping pattern="config-manager" type="PLAIN_TEXT" />
+      <mapping pattern="cert" type="PLAIN_TEXT" />
       <mapping pattern="stdout" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="push-client-stop" type="PLAIN_TEXT" />
