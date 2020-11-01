@@ -13,6 +13,7 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="environment" type="PLAIN_TEXT" />
       <mapping pattern="push-client-readyness" type="PLAIN_TEXT" />
+      <mapping pattern="sas" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="status" type="PLAIN_TEXT" />
       <mapping pattern="push-agent-proxy-start" type="PLAIN_TEXT" />
