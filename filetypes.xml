@@ -15,6 +15,7 @@
       <mapping pattern="push-client-readyness" type="PLAIN_TEXT" />
       <mapping pattern="sas" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="status" type="PLAIN_TEXT" />
       <mapping pattern="push-agent-proxy-start" type="PLAIN_TEXT" />
       <mapping pattern="push-client" type="PLAIN_TEXT" />
       <mapping pattern="unified_agent" type="PLAIN_TEXT" />
@@ -41,7 +42,6 @@
       <mapping pattern="push-client-stop" type="PLAIN_TEXT" />
       <mapping pattern="push-client-yc-logbroker-preprod" type="PLAIN_TEXT" />
       <mapping pattern="nginx_mon_status" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="push-client-start" type="PLAIN_TEXT" />
       <mapping pattern="logrotate-loop-stop" type="PLAIN_TEXT" />
       <mapping pattern="prerm" type="PLAIN_TEXT" />
@@ -51,7 +51,7 @@
       <mapping pattern="postinst" type="PLAIN_TEXT" />
       <mapping pattern="stderr" type="PLAIN_TEXT" />
       <mapping pattern="fast_failover_demo_with_group_hierarchy" type="PLAIN_TEXT" />
-      <mapping pattern="status" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="postrm" type="PLAIN_TEXT" />
       <mapping ext="yql" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
